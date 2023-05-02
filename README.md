@@ -1,14 +1,5 @@
 # MARK-II
 >>>BASICALLY THE HEV SUIT IRL&lt;&lt;&lt; The Mark II system is a highly versatile and modular hazard suit that can be built with arduinos and recycled materials for an affordable price!
-<figure>
-  <iframe src="" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-</figure>
-<svg width="100" height="100" xmlns="Mark 2\HTML element\MARKII.html">
-<foreignObject width="100" height="100">
-    <div xmlns="Mark 2\HTML element\MARKII.html">
-        <ul>
-            <li>text</li>
-        </ul>
-    </div>
-</foreignObject>
-</svg>
+<h1> Alright github... </h1>
+<p> so github either sanitized the html code in the readme file or I have no fucking idea how to embed my html file in here. Basically if you download this just go ahead and read the MARKII.html file for more info on the project. I'll be adding images and shit so you can see how its going with the device.</p>
+<h2> WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</h2>
