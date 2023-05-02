@@ -1,0 +1,49 @@
+CPM: --						BPM: ---	
+TEMP:  C/F					______/\_____/
+HUMID: ---%
+SPEED: -- MPH
+
+AIR
+PM10:	--
+PM2.5:	--
+BAR:	--
+
+
+IMPACT: --- N
+DIST: ---- M						[Icons]
+
+--------------------------------------------------------------------
+
+
+(only show impact when Impact warning/Critical icon are shown)
+impact will be colored red
+Impact will appear on the screen for 10 seconds
+
+
+Requirements for Icons:
+
+
+Air Pollution
+
+Warning: 
+PM 2.5: 55-250
+PM 10: 250-420
+
+Critical: 
+PM 2.5: 250+
+PM 10: 420+
+
+
+Radiation
+
+Notice:
+25-60 CPM
+
+Alert:
+60-100 CPM
+
+Warning:
+100-150 CPM
+
+Critical:
+150+ CPM
